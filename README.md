@@ -1,4 +1,3 @@
-# cv
 ## ComputerVision
 1. 이미지 파일의 변환
 2. OpenCV의 사용
